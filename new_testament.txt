@@ -1,0 +1,1007 @@
+          <h3 class="video-mod__title">Read Scripture New Testament</h3>
+          <span class="video-mod__status">31 of 28 Funded Videos</span>
+
+          <p class="video-mod-desc">We want to help you to read through the bible without getting lost or giving up. This series has a video for every book of the Bible that outlines its literary design and main ideas, showing you how it fits into the entire biblical story.</p>
+
+          <section class="video-mod__display-carousel">
+
+            <div class="maskbutton__left">
+              <a class="btn prev icon-TBP-Left-Arrow"></a>
+            </div>
+
+            <div class="owl-carousel">
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-MAT1-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='iriW0zX492c'
+                           data-videoTitle='Matthew 1-13'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/matthew-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-1-13-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Matthew 1-13","url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-1-13","category":"Read Scripture New Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MAT1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-matthew-1-13-video","youtube_id":"iriW0zX492c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/matthew-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-1-13-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Matthew 1-13</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-matthew-1-13-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Matthew 1-13","url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-1-13","category":"Read Scripture New Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MAT1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-matthew-1-13-video","youtube_id":"iriW0zX492c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/matthew-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-1-13-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-MAT2-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='VSVPCPK-Zf8'
+                           data-videoTitle='Matthew 14-28'
+                           data-videoSummary='Watch the book of Matthew chapter 14-28 come to life in this animated sketch of its literary design.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/matthew-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-14-28-video-2","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Matthew 14-28","url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-14-28-2","category":"Read Scripture New Testament","summary":"Watch the book of Matthew chapter 14-28 come to life in this animated sketch of its literary design.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MAT2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-matthew-14-28-video-2","youtube_id":"VSVPCPK-Zf8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/matthew-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-14-28-video-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Matthew 14-28</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-matthew-14-28-video-2" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Matthew 14-28","url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-14-28-2","category":"Read Scripture New Testament","summary":"Watch the book of Matthew chapter 14-28 come to life in this animated sketch of its literary design.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MAT2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-matthew-14-28-video-2","youtube_id":"VSVPCPK-Zf8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/matthew-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-matthew-14-28-video-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-MARK-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='HGHqu9-DtXk'
+                           data-videoTitle='Mark'
+                           data-videoSummary='Mark&#039;s story emphasizes the scandalous claim that Jesus is Israel&#039;s messianic king who established his kingdom through his suffering, death, and resurrection.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/mark-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-mark-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Mark","url":"https:\/\/thebibleproject.com\/product\/mark","category":"Read Scripture New Testament","summary":"Mark&#039;s story emphasizes the scandalous claim that Jesus is Israel&#039;s messianic king who established his kingdom through his suffering, death, and resurrection.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MARK-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-mark-video","youtube_id":"HGHqu9-DtXk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/mark-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-mark-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Mark</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-mark-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Mark","url":"https:\/\/thebibleproject.com\/product\/mark","category":"Read Scripture New Testament","summary":"Mark&#039;s story emphasizes the scandalous claim that Jesus is Israel&#039;s messianic king who established his kingdom through his suffering, death, and resurrection.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MARK-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-mark-video","youtube_id":"HGHqu9-DtXk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/mark-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-mark-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JOHN1-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='G-2e9mMf7E8'
+                           data-videoTitle='John 1-12'
+                           data-videoSummary='John presents Jesus as the incarnation of the creator God of Israel, who has come as the fulfillment of Israel&#039;s entire story. In Jesus, God&#039;s love and the gift of eternal life are offered to the world.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-john-1-12-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"John 1-12","url":"https:\/\/thebibleproject.com\/product\/john-1-12","category":"Read Scripture New Testament","summary":"John presents Jesus as the incarnation of the creator God of Israel, who has come as the fulfillment of Israel&#039;s entire story. In Jesus, God&#039;s love and the gift of eternal life are offered to the world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOHN1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-john-1-12-video","youtube_id":"G-2e9mMf7E8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-john-1-12-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>John 1-12</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-john-1-12-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"John 1-12","url":"https:\/\/thebibleproject.com\/product\/john-1-12","category":"Read Scripture New Testament","summary":"John presents Jesus as the incarnation of the creator God of Israel, who has come as the fulfillment of Israel&#039;s entire story. In Jesus, God&#039;s love and the gift of eternal life are offered to the world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOHN1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-john-1-12-video","youtube_id":"G-2e9mMf7E8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-john-1-12-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JOHN2-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='RUfh_wOsauk'
+                           data-videoTitle='John 13-21'
+                           data-videoSummary='John presents Jesus&#039; final words to his disciples before his death and resurrection. His departure will allow the Spirit to come and empower his followers to carry on his mission in the world.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-john-13-21-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"John 13-21","url":"https:\/\/thebibleproject.com\/product\/john-13-21","category":"Read Scripture New Testament","summary":"John presents Jesus&#039; final words to his disciples before his death and resurrection. His departure will allow the Spirit to come and empower his followers to carry on his mission in the world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOHN2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-john-13-21-video","youtube_id":"RUfh_wOsauk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-john-13-21-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>John 13-21</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-john-13-21-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"John 13-21","url":"https:\/\/thebibleproject.com\/product\/john-13-21","category":"Read Scripture New Testament","summary":"John presents Jesus&#039; final words to his disciples before his death and resurrection. His departure will allow the Spirit to come and empower his followers to carry on his mission in the world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOHN2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-john-13-21-video","youtube_id":"RUfh_wOsauk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-john-13-21-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/09/TBP-Web-RSThumbnail-LUKE1-6.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='XIb_dCIxzr0'
+                           data-videoTitle='Luke 1-9'
+                           data-videoSummary='Luke introduces Jesus as promised king of Israel and God&#039;s son who announces good news to the poor. Jesus is portrayed as a new Moses who will liberate Israel through a new Exodus.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/luke-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-luke-1-9-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Luke 1-9","url":"https:\/\/thebibleproject.com\/product\/luke-1-9","category":"Read Scripture New Testament","summary":"Luke introduces Jesus as promised king of Israel and God&#039;s son who announces good news to the poor. Jesus is portrayed as a new Moses who will liberate Israel through a new Exodus.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnail-LUKE1-6.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-luke-1-9-video","youtube_id":"XIb_dCIxzr0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/luke-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-luke-1-9-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Luke 1-9</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-luke-1-9-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Luke 1-9","url":"https:\/\/thebibleproject.com\/product\/luke-1-9","category":"Read Scripture New Testament","summary":"Luke introduces Jesus as promised king of Israel and God&#039;s son who announces good news to the poor. Jesus is portrayed as a new Moses who will liberate Israel through a new Exodus.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnail-LUKE1-6.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-luke-1-9-video","youtube_id":"XIb_dCIxzr0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/luke-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-luke-1-9-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/09/TBP-Web-RSThumbnail-LUKE2-3.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='26z_KhwNdD8'
+                           data-videoTitle='Luke 10-24'
+                           data-videoSummary='Luke traces Jesus&#039; journey to Jerusalem, which becomes an education in discipleship for his followers. Israel&#039;s resistance to Jesus&#039; message culminates in his death and resurrection, which opens up hope for all nations.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/luke-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-luke-10-24-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Luke 10-24","url":"https:\/\/thebibleproject.com\/product\/luke-10-24","category":"Read Scripture New Testament","summary":"Luke traces Jesus&#039; journey to Jerusalem, which becomes an education in discipleship for his followers. Israel&#039;s resistance to Jesus&#039; message culminates in his death and resurrection, which opens up hope for all nations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnail-LUKE2-3.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-luke-10-24-video","youtube_id":"26z_KhwNdD8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/luke-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-luke-10-24-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Luke 10-24</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-luke-10-24-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Luke 10-24","url":"https:\/\/thebibleproject.com\/product\/luke-10-24","category":"Read Scripture New Testament","summary":"Luke traces Jesus&#039; journey to Jerusalem, which becomes an education in discipleship for his followers. Israel&#039;s resistance to Jesus&#039; message culminates in his death and resurrection, which opens up hope for all nations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnail-LUKE2-3.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-luke-10-24-video","youtube_id":"26z_KhwNdD8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/luke-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-luke-10-24-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/09/TBP-Web-RSThumbnails-ACTS1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='CGbNw855ksw'
+                           data-videoTitle='Acts 1-12'
+                           data-videoSummary='Luke continues Jesus&#039; story by showing the Holy Spirit is sent to make the disciples into a new temple. Through them, Jesus and the Spirit will carry on the mission of God&#039;s kingdom in the world.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/acts-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-acts-1-12-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Acts 1-12","url":"https:\/\/thebibleproject.com\/product\/acts-1-12","category":"Read Scripture New Testament","summary":"Luke continues Jesus&#039; story by showing the Holy Spirit is sent to make the disciples into a new temple. Through them, Jesus and the Spirit will carry on the mission of God&#039;s kingdom in the world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnails-ACTS1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-acts-1-12-video","youtube_id":"CGbNw855ksw","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/acts-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-acts-1-12-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Acts 1-12</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-acts-1-12-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Acts 1-12","url":"https:\/\/thebibleproject.com\/product\/acts-1-12","category":"Read Scripture New Testament","summary":"Luke continues Jesus&#039; story by showing the Holy Spirit is sent to make the disciples into a new temple. Through them, Jesus and the Spirit will carry on the mission of God&#039;s kingdom in the world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnails-ACTS1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-acts-1-12-video","youtube_id":"CGbNw855ksw","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/acts-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-acts-1-12-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/09/TBP-Web-RSThumbnails-ACTS2.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='Z-17KxpjL0Q'
+                           data-videoTitle='Acts 13-28'
+                           data-videoSummary='Watch the second&nbsp;half of the book of Acts ch.13-28 come to life in this animated sketch of its literary design. Luke traces how the Spirit-empowered messianic movement in Jerusalem becomes a multi-ethnic international movement that spreads all the way to Rome.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/acts-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-acts-13-28-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Acts 13-28","url":"https:\/\/thebibleproject.com\/product\/acts-13-28","category":"Read Scripture New Testament","summary":"Watch the second&nbsp;half of the book of Acts ch.13-28 come to life in this animated sketch of its literary design. Luke traces how the Spirit-empowered messianic movement in Jerusalem becomes a multi-ethnic international movement that spreads all the way to Rome.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnails-ACTS2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-acts-13-28-video","youtube_id":"Z-17KxpjL0Q","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/acts-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-acts-13-28-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Acts 13-28</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-acts-13-28-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Acts 13-28","url":"https:\/\/thebibleproject.com\/product\/acts-13-28","category":"Read Scripture New Testament","summary":"Watch the second&nbsp;half of the book of Acts ch.13-28 come to life in this animated sketch of its literary design. Luke traces how the Spirit-empowered messianic movement in Jerusalem becomes a multi-ethnic international movement that spreads all the way to Rome.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/09\/TBP-Web-RSThumbnails-ACTS2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-acts-13-28-video","youtube_id":"Z-17KxpjL0Q","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/acts-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-acts-13-28-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/10/TBP-Web-RSThumbnail-ROM1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='ej_6dVdJSIU'
+                           data-videoTitle='Romans 1-4'
+                           data-videoSummary='This video introduces Paul the Apostle and summarizes the historical context and main ideas of the first four chapters of his most epic work, The Letter to the Romans.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-romans-1-4-video-2","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Romans 1-4","url":"https:\/\/thebibleproject.com\/product\/romans-1-4","category":"Read Scripture New Testament","summary":"This video introduces Paul the Apostle and summarizes the historical context and main ideas of the first four chapters of his most epic work, The Letter to the Romans.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/10\/TBP-Web-RSThumbnail-ROM1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-romans-1-4-video-2","youtube_id":"ej_6dVdJSIU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-romans-1-4-video-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Romans 1-4</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-romans-1-4-video-2" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Romans 1-4","url":"https:\/\/thebibleproject.com\/product\/romans-1-4","category":"Read Scripture New Testament","summary":"This video introduces Paul the Apostle and summarizes the historical context and main ideas of the first four chapters of his most epic work, The Letter to the Romans.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/10\/TBP-Web-RSThumbnail-ROM1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-romans-1-4-video-2","youtube_id":"ej_6dVdJSIU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-romans-1-4-video-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/10/TBP-Web-RSThumbnail-ROM2.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='0SVTl4Xa5fY'
+                           data-videoTitle='Romans 5-16'
+                           data-videoSummary='This video explores the main ideas and flow of thought in chapters 5-16 of The Letter to the Romans, Paul the Apostle&rsquo;s most epic work.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-romans-5-16-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Romans 5-16","url":"https:\/\/thebibleproject.com\/product\/romans-5-16","category":"Read Scripture New Testament","summary":"This video explores the main ideas and flow of thought in chapters 5-16 of The Letter to the Romans, Paul the Apostle&rsquo;s most epic work.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/10\/TBP-Web-RSThumbnail-ROM2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-romans-5-16-video","youtube_id":"0SVTl4Xa5fY","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-romans-5-16-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Romans 5-16</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-romans-5-16-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Romans 5-16","url":"https:\/\/thebibleproject.com\/product\/romans-5-16","category":"Read Scripture New Testament","summary":"This video explores the main ideas and flow of thought in chapters 5-16 of The Letter to the Romans, Paul the Apostle&rsquo;s most epic work.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/10\/TBP-Web-RSThumbnail-ROM2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-romans-5-16-video","youtube_id":"0SVTl4Xa5fY","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-romans-5-16-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-1COR-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='yiHf8klCCc4'
+                           data-videoTitle='1 Corinthians'
+                           data-videoSummary='Watch the book of 1 Corinthians come to life in this animated sketch of its literary design.Paul addresses a host of problems in the ancient church of Corinth. As he does so, he shows us what it means to see all of life&#039;s complexities through the lens of the Gospel about Jesus.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-corinthians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians-video-2","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"1 Corinthians","url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians","category":"Read Scripture New Testament","summary":"Watch the book of 1 Corinthians come to life in this animated sketch of its literary design.Paul addresses a host of problems in the ancient church of Corinth. As he does so, he shows us what it means to see all of life&#039;s complexities through the lens of the Gospel about Jesus.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-1COR-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-corinthians-video-2","youtube_id":"yiHf8klCCc4","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-corinthians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians-video-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>1 Corinthians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-1-corinthians-video-2" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"1 Corinthians","url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians","category":"Read Scripture New Testament","summary":"Watch the book of 1 Corinthians come to life in this animated sketch of its literary design.Paul addresses a host of problems in the ancient church of Corinth. As he does so, he shows us what it means to see all of life&#039;s complexities through the lens of the Gospel about Jesus.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-1COR-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-corinthians-video-2","youtube_id":"yiHf8klCCc4","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-corinthians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians-video-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-2COR.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='3lfPK2vfC54'
+                           data-videoTitle='2 Corinthians'
+                           data-videoSummary='Watch the book of 1 Corinthians come to life in this animated sketch of its literary design.&nbsp;Paul repairs his relationship with the Corinthians, showing them how the scandalous message of the crucified Jesus opens up a totally new way of life.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-corinthians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"2 Corinthians","url":"https:\/\/thebibleproject.com\/product\/2-corinthians","category":"Read Scripture New Testament","summary":"Watch the book of 1 Corinthians come to life in this animated sketch of its literary design.&nbsp;Paul repairs his relationship with the Corinthians, showing them how the scandalous message of the crucified Jesus opens up a totally new way of life.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-2COR.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-corinthians-video","youtube_id":"3lfPK2vfC54","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-corinthians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>2 Corinthians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-1-corinthians-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"2 Corinthians","url":"https:\/\/thebibleproject.com\/product\/2-corinthians","category":"Read Scripture New Testament","summary":"Watch the book of 1 Corinthians come to life in this animated sketch of its literary design.&nbsp;Paul repairs his relationship with the Corinthians, showing them how the scandalous message of the crucified Jesus opens up a totally new way of life.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-2COR.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-corinthians-video","youtube_id":"3lfPK2vfC54","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-corinthians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-corinthians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-GAL.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='vmx4UjRFp0M'
+                           data-videoTitle='Galatians'
+                           data-videoSummary='Paul confronts the Galatians Christians for thinking they could supplement God&#039;s grace by observing certain commands in the Torah. He reminds them that salvation is a total gift of God&#039;s love, and needs no completion through religious rituals.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster-2","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-galatians-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Galatians","url":"https:\/\/thebibleproject.com\/product\/galatians","category":"Read Scripture New Testament","summary":"Paul confronts the Galatians Christians for thinking they could supplement God&#039;s grace by observing certain commands in the Torah. He reminds them that salvation is a total gift of God&#039;s love, and needs no completion through religious rituals.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-GAL.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-galatians-video","youtube_id":"vmx4UjRFp0M","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster-2","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-galatians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Galatians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-galatians-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Galatians","url":"https:\/\/thebibleproject.com\/product\/galatians","category":"Read Scripture New Testament","summary":"Paul confronts the Galatians Christians for thinking they could supplement God&#039;s grace by observing certain commands in the Torah. He reminds them that salvation is a total gift of God&#039;s love, and needs no completion through religious rituals.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-GAL.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-galatians-video","youtube_id":"vmx4UjRFp0M","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/romans-poster-2","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-galatians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-EPH-2.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='Y71r-T98E2Q'
+                           data-videoTitle='Ephesians'
+                           data-videoSummary='Paul offers a panoramic summary of his entire message and mission as an apostle of Jesus to the non-Jewish world. He also shows how the Gospel creates a diverse community that is unified by devotion to Jesus and to each other.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ephesians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ephesians-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Ephesians","url":"https:\/\/thebibleproject.com\/product\/ephesians","category":"Read Scripture New Testament","summary":"Paul offers a panoramic summary of his entire message and mission as an apostle of Jesus to the non-Jewish world. He also shows how the Gospel creates a diverse community that is unified by devotion to Jesus and to each other.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-EPH-2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ephesians-video","youtube_id":"Y71r-T98E2Q","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ephesians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ephesians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Ephesians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-ephesians-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Ephesians","url":"https:\/\/thebibleproject.com\/product\/ephesians","category":"Read Scripture New Testament","summary":"Paul offers a panoramic summary of his entire message and mission as an apostle of Jesus to the non-Jewish world. He also shows how the Gospel creates a diverse community that is unified by devotion to Jesus and to each other.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-EPH-2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ephesians-video","youtube_id":"Y71r-T98E2Q","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ephesians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ephesians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-PHILIP.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='oE9qqW1-BkU'
+                           data-videoTitle='Philippians'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/philippians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-philippians-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Philippians","url":"https:\/\/thebibleproject.com\/product\/philippians","category":"Read Scripture New Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-PHILIP.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-philippians-video","youtube_id":"oE9qqW1-BkU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/philippians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-philippians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Philippians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-philippians-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Philippians","url":"https:\/\/thebibleproject.com\/product\/philippians","category":"Read Scripture New Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-PHILIP.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-philippians-video","youtube_id":"oE9qqW1-BkU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/philippians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-philippians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-COLO-2.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='pXTXlDxQsvc'
+                           data-videoTitle='Colossians'
+                           data-videoSummary='Paul shows the Colossian Christians how Jesus is key to understanding all of reality. His death and resurrection as king of the world demand that every aspect of our lives be transformed by his love and grace.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/colossians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-colossians-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Colossians","url":"https:\/\/thebibleproject.com\/product\/colossians","category":"Read Scripture New Testament","summary":"Paul shows the Colossian Christians how Jesus is key to understanding all of reality. His death and resurrection as king of the world demand that every aspect of our lives be transformed by his love and grace.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-COLO-2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-colossians-video","youtube_id":"pXTXlDxQsvc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/colossians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-colossians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Colossians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-colossians-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Colossians","url":"https:\/\/thebibleproject.com\/product\/colossians","category":"Read Scripture New Testament","summary":"Paul shows the Colossian Christians how Jesus is key to understanding all of reality. His death and resurrection as king of the world demand that every aspect of our lives be transformed by his love and grace.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-COLO-2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-colossians-video","youtube_id":"pXTXlDxQsvc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/colossians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-colossians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-PHIL-2.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='aW9Q3Jt6Yvk'
+                           data-videoTitle='Philemon'
+                           data-videoSummary='Paul mediates between Philemon and his escaped former slave Onesimus. He shows how the Gospel has made them brothers in the Messiah, and demands that their relationship be healed and transformed.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/philemon-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-philemon-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Philemon","url":"https:\/\/thebibleproject.com\/product\/philemon","category":"Read Scripture New Testament","summary":"Paul mediates between Philemon and his escaped former slave Onesimus. He shows how the Gospel has made them brothers in the Messiah, and demands that their relationship be healed and transformed.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-PHIL-2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-philemon-video","youtube_id":"aW9Q3Jt6Yvk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/philemon-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-philemon-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Philemon</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-philemon-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Philemon","url":"https:\/\/thebibleproject.com\/product\/philemon","category":"Read Scripture New Testament","summary":"Paul mediates between Philemon and his escaped former slave Onesimus. He shows how the Gospel has made them brothers in the Messiah, and demands that their relationship be healed and transformed.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-PHIL-2.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-philemon-video","youtube_id":"aW9Q3Jt6Yvk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/philemon-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-philemon-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-1THESS.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='No7Nq6IX23c'
+                           data-videoTitle='1 Thessalonians'
+                           data-videoSummary='Paul comforts the Thessalonian Christians in the midst of persecution and fear. He directs their hope to the future return of Jesus who will bring justice and make all things right.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-thessalonians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-thessalonians-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"1 Thessalonians","url":"https:\/\/thebibleproject.com\/product\/1-thessalonians","category":"Read Scripture New Testament","summary":"Paul comforts the Thessalonian Christians in the midst of persecution and fear. He directs their hope to the future return of Jesus who will bring justice and make all things right.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-1THESS.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-thessalonians-video","youtube_id":"No7Nq6IX23c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-thessalonians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-thessalonians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>1 Thessalonians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-1-thessalonians-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"1 Thessalonians","url":"https:\/\/thebibleproject.com\/product\/1-thessalonians","category":"Read Scripture New Testament","summary":"Paul comforts the Thessalonian Christians in the midst of persecution and fear. He directs their hope to the future return of Jesus who will bring justice and make all things right.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-1THESS.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-thessalonians-video","youtube_id":"No7Nq6IX23c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-thessalonians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-thessalonians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-2THESS.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='kbPBDKOn1cc'
+                           data-videoTitle='2 Thessalonians'
+                           data-videoSummary='Paul brings more comfort to the persecuted Thessalonian Christians. He also clarifies his teaching about Jesus&#039; future return and challenges people whose selfish lifestyles are causing trouble in the church.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-thessalonians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-thessalonians-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"2 Thessalonians","url":"https:\/\/thebibleproject.com\/product\/2-thessalonians","category":"Read Scripture New Testament","summary":"Paul brings more comfort to the persecuted Thessalonian Christians. He also clarifies his teaching about Jesus&#039; future return and challenges people whose selfish lifestyles are causing trouble in the church.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-2THESS.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-thessalonians-video","youtube_id":"kbPBDKOn1cc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-thessalonians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-thessalonians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>2 Thessalonians</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-2-thessalonians-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"2 Thessalonians","url":"https:\/\/thebibleproject.com\/product\/2-thessalonians","category":"Read Scripture New Testament","summary":"Paul brings more comfort to the persecuted Thessalonian Christians. He also clarifies his teaching about Jesus&#039; future return and challenges people whose selfish lifestyles are causing trouble in the church.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-2THESS.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-thessalonians-video","youtube_id":"kbPBDKOn1cc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-thessalonians-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-thessalonians-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-1TIM.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='7RoqnGcEjcs'
+                           data-videoTitle='1 Timothy'
+                           data-videoSummary='&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Paul guides Timothy in how to restore order to the church in Ephesus. It&#039;s been disrupted by corrupt leaders who are leading the people astray. Here Paul offers a wholistic vision of the church&#039;s purpose and mission in the world.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Paul guides Timothy in how to restore order to the church in Ephesus. It&#039;s been disrupted by corrupt leaders who are leading the people astray. Here Paul offers a wholistic vision of the church&#039;s purpose and mission in the world.&lt;/span&gt;'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-timothy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-timothy-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"1 Timothy","url":"https:\/\/thebibleproject.com\/product\/1-timothy","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Paul guides Timothy in how to restore order to the church in Ephesus. It&#039;s been disrupted by corrupt leaders who are leading the people astray. Here Paul offers a wholistic vision of the church&#039;s purpose and mission in the world.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Paul guides Timothy in how to restore order to the church in Ephesus. It&#039;s been disrupted by corrupt leaders who are leading the people astray. Here Paul offers a wholistic vision of the church&#039;s purpose and mission in the world.&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-1TIM.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-timothy-video","youtube_id":"7RoqnGcEjcs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-timothy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-timothy-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>1 Timothy</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-1-timothy-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"1 Timothy","url":"https:\/\/thebibleproject.com\/product\/1-timothy","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Paul guides Timothy in how to restore order to the church in Ephesus. It&#039;s been disrupted by corrupt leaders who are leading the people astray. Here Paul offers a wholistic vision of the church&#039;s purpose and mission in the world.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Paul guides Timothy in how to restore order to the church in Ephesus. It&#039;s been disrupted by corrupt leaders who are leading the people astray. Here Paul offers a wholistic vision of the church&#039;s purpose and mission in the world.&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-1TIM.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-timothy-video","youtube_id":"7RoqnGcEjcs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-timothy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-timothy-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-2TIM.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='urlvnxCaL00'
+                           data-videoTitle='2 Timothy'
+                           data-videoSummary='&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Paul writes his final letter from prison, asking Timothy to come visit him before he&#039;s executed. Paul offers a personal challenge to Timothy and shows us that following Jesus requires sacrifice and risk.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Paul writes his final letter from prison, asking Timothy to come visit him before he&#039;s executed. Paul offers a personal challenge to Timothy and shows us that following Jesus requires sacrifice and risk.&lt;/span&gt;'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-timothy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-timothy-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"2 Timothy","url":"https:\/\/thebibleproject.com\/product\/2-timothy","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Paul writes his final letter from prison, asking Timothy to come visit him before he&#039;s executed. Paul offers a personal challenge to Timothy and shows us that following Jesus requires sacrifice and risk.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Paul writes his final letter from prison, asking Timothy to come visit him before he&#039;s executed. Paul offers a personal challenge to Timothy and shows us that following Jesus requires sacrifice and risk.&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-2TIM.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-timothy-video","youtube_id":"urlvnxCaL00","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-timothy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-timothy-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>2 Timothy</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-2-timothy-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"2 Timothy","url":"https:\/\/thebibleproject.com\/product\/2-timothy","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Paul writes his final letter from prison, asking Timothy to come visit him before he&#039;s executed. Paul offers a personal challenge to Timothy and shows us that following Jesus requires sacrifice and risk.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Paul writes his final letter from prison, asking Timothy to come visit him before he&#039;s executed. Paul offers a personal challenge to Timothy and shows us that following Jesus requires sacrifice and risk.&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-2TIM.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-timothy-video","youtube_id":"urlvnxCaL00","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-timothy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-timothy-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/11/TBP-Web-RSThumbnail-TITUS.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='PUEYCVXJM3k'
+                           data-videoTitle='Titus'
+                           data-videoSummary='Paul commissions Titus to bring order to the house churches on the Island of Crete. He shows how the Gospel can transform Cretan culture from within as Jesus&#039; followers depend on the Spirit to empower a totally new way of life.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/titus-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-titus-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Titus","url":"https:\/\/thebibleproject.com\/product\/titus","category":"Read Scripture New Testament","summary":"Paul commissions Titus to bring order to the house churches on the Island of Crete. He shows how the Gospel can transform Cretan culture from within as Jesus&#039; followers depend on the Spirit to empower a totally new way of life.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-TITUS.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-titus-video","youtube_id":"PUEYCVXJM3k","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/titus-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-titus-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Titus</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-titus-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Titus","url":"https:\/\/thebibleproject.com\/product\/titus","category":"Read Scripture New Testament","summary":"Paul commissions Titus to bring order to the house churches on the Island of Crete. He shows how the Gospel can transform Cretan culture from within as Jesus&#039; followers depend on the Spirit to empower a totally new way of life.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/11\/TBP-Web-RSThumbnail-TITUS.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-titus-video","youtube_id":"PUEYCVXJM3k","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/titus-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-titus-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-HEB-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='1fNWTZZwgbs'
+                           data-videoTitle='Hebrews'
+                           data-videoSummary='Watch the book of Hebrews come to life in this animated sketch of its literary design.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/hebrews-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-hebrews-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Hebrews","url":"https:\/\/thebibleproject.com\/product\/read-scripture-hebrews","category":"Read Scripture New Testament","summary":"Watch the book of Hebrews come to life in this animated sketch of its literary design.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HEB-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-hebrews-video","youtube_id":"1fNWTZZwgbs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/hebrews-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-hebrews-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Hebrews</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-hebrews-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Hebrews","url":"https:\/\/thebibleproject.com\/product\/read-scripture-hebrews","category":"Read Scripture New Testament","summary":"Watch the book of Hebrews come to life in this animated sketch of its literary design.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HEB-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-hebrews-video","youtube_id":"1fNWTZZwgbs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/hebrews-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-hebrews-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-JAMES-4.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='qn-hLHWwRYY'
+                           data-videoTitle='James'
+                           data-videoSummary='James combines the wisdom of his brother Jesus and the book of Proverbs into his own challenging call to life of whole-hearted devotion to God.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/james-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-james-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"James","url":"https:\/\/thebibleproject.com\/product\/james","category":"Read Scripture New Testament","summary":"James combines the wisdom of his brother Jesus and the book of Proverbs into his own challenging call to life of whole-hearted devotion to God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-JAMES-4.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-james-video","youtube_id":"qn-hLHWwRYY","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/james-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-james-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>James</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-james-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"James","url":"https:\/\/thebibleproject.com\/product\/james","category":"Read Scripture New Testament","summary":"James combines the wisdom of his brother Jesus and the book of Proverbs into his own challenging call to life of whole-hearted devotion to God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-JAMES-4.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-james-video","youtube_id":"qn-hLHWwRYY","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/james-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-james-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-1PETER-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='WhP7AZQlzCg'
+                           data-videoTitle='1 Peter'
+                           data-videoSummary='Peter offers hope to Christians suffering persecution and guides them with practical instruction about the way of life consistent with following Jesus.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-peter-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-peter-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"1 Peter","url":"https:\/\/thebibleproject.com\/product\/1-peter","category":"Read Scripture New Testament","summary":"Peter offers hope to Christians suffering persecution and guides them with practical instruction about the way of life consistent with following Jesus.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-1PETER-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-peter-video","youtube_id":"WhP7AZQlzCg","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-peter-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-peter-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>1 Peter</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-1-peter-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"1 Peter","url":"https:\/\/thebibleproject.com\/product\/1-peter","category":"Read Scripture New Testament","summary":"Peter offers hope to Christians suffering persecution and guides them with practical instruction about the way of life consistent with following Jesus.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-1PETER-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-peter-video","youtube_id":"WhP7AZQlzCg","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-peter-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-peter-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-2PETER.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='wWLv_ITyKYc'
+                           data-videoTitle='2 Peter'
+                           data-videoSummary='Peter confronts corrupt teachers who have distorted the message about Jesus and lead others astray. He points Christians to the hope of Jesus&#039; return which can motivate faithfulness.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-peter-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-peter-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"2 Peter","url":"https:\/\/thebibleproject.com\/product\/2-peter","category":"Read Scripture New Testament","summary":"Peter confronts corrupt teachers who have distorted the message about Jesus and lead others astray. He points Christians to the hope of Jesus&#039; return which can motivate faithfulness.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-2PETER.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-peter-video","youtube_id":"wWLv_ITyKYc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-peter-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-peter-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>2 Peter</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-2-peter-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"2 Peter","url":"https:\/\/thebibleproject.com\/product\/2-peter","category":"Read Scripture New Testament","summary":"Peter confronts corrupt teachers who have distorted the message about Jesus and lead others astray. He points Christians to the hope of Jesus&#039; return which can motivate faithfulness.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-2PETER.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-peter-video","youtube_id":"wWLv_ITyKYc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/2-peter-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-peter-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-123JOHN-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='l3QkE6nKylM'
+                           data-videoTitle='1-3 John'
+                           data-videoSummary='John calls followers of Jesus to share in God&#039;s own life and love by devoting themselves to loving one another.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-3-john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-3-john-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"1-3 John","url":"https:\/\/thebibleproject.com\/product\/1-3-john","category":"Read Scripture New Testament","summary":"John calls followers of Jesus to share in God&#039;s own life and love by devoting themselves to loving one another.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-123JOHN-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-3-john-video","youtube_id":"l3QkE6nKylM","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-3-john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-3-john-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>1-3 John</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-1-3-john-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"1-3 John","url":"https:\/\/thebibleproject.com\/product\/1-3-john","category":"Read Scripture New Testament","summary":"John calls followers of Jesus to share in God&#039;s own life and love by devoting themselves to loving one another.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-123JOHN-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-3-john-video","youtube_id":"l3QkE6nKylM","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-3-john-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-3-john-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-JUDE-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='6UoCmakZmys'
+                           data-videoTitle='Jude'
+                           data-videoSummary='&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Jude confronts corrupt teachers who distort the message about Jesus his brother and lead others astray.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:771,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:16773836},&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Jude confronts corrupt teachers who distort the message about Jesus his brother and lead others astray.&nbsp;&lt;/span&gt;'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jude-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jude-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Jude","url":"https:\/\/thebibleproject.com\/product\/jude","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Jude confronts corrupt teachers who distort the message about Jesus his brother and lead others astray.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:771,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:16773836},&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Jude confronts corrupt teachers who distort the message about Jesus his brother and lead others astray.&nbsp;&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-JUDE-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-jude-video","youtube_id":"6UoCmakZmys","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jude-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jude-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Jude</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-jude-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Jude","url":"https:\/\/thebibleproject.com\/product\/jude","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Jude confronts corrupt teachers who distort the message about Jesus his brother and lead others astray.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:771,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:16773836},&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;Jude confronts corrupt teachers who distort the message about Jesus his brother and lead others astray.&nbsp;&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-JUDE-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-jude-video","youtube_id":"6UoCmakZmys","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jude-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jude-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-REV1-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='5nvVVcYD-0w'
+                           data-videoTitle='Revelation 1-11'
+                           data-videoSummary='&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;John addresses seven churches with a challenge to remain faithful to Jesus despite persecution and the temptation to apathy. His visions open up an alternate vision of human history, showing how Jesus is the true king of history.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:771,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:16773836},&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;John addresses seven churches with a challenge to remain faithful to Jesus despite persecution and the temptation to apathy. His visions open up an alternate vision of human history, showing how Jesus is the true king of history.&lt;/span&gt;'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/revelation-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-revelation-1-11-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Revelation 1-11","url":"https:\/\/thebibleproject.com\/product\/revelation-1-11","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;John addresses seven churches with a challenge to remain faithful to Jesus despite persecution and the temptation to apathy. His visions open up an alternate vision of human history, showing how Jesus is the true king of history.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:771,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:16773836},&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;John addresses seven churches with a challenge to remain faithful to Jesus despite persecution and the temptation to apathy. His visions open up an alternate vision of human history, showing how Jesus is the true king of history.&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-REV1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-revelation-1-11-video","youtube_id":"5nvVVcYD-0w","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/revelation-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-revelation-1-11-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Revelation 1-11</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-revelation-1-11-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Revelation 1-11","url":"https:\/\/thebibleproject.com\/product\/revelation-1-11","category":"Read Scripture New Testament","summary":"&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;John addresses seven churches with a challenge to remain faithful to Jesus despite persecution and the temptation to apathy. His visions open up an alternate vision of human history, showing how Jesus is the true king of history.&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:771,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;4&amp;quot;:{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:16773836},&amp;quot;11&amp;quot;:4,&amp;quot;12&amp;quot;:0}&quot;&gt;John addresses seven churches with a challenge to remain faithful to Jesus despite persecution and the temptation to apathy. His visions open up an alternate vision of human history, showing how Jesus is the true king of history.&lt;\/span&gt;","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-REV1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-revelation-1-11-video","youtube_id":"5nvVVcYD-0w","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/revelation-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-revelation-1-11-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/12/TBP-Web-RSThumbnail-REV2-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='QpnIrbq2bKo'
+                           data-videoTitle='Revelation 11-22'
+                           data-videoSummary='John recounts his visions about Jesus&#039; exalted rule over the world and how he will in due time bring final justice on the world&#039;s evil and return to bring renewal to all creation.'
+                           data-videoLinks='[{"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-revelation-11-22-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Revelation 11-22","url":"https:\/\/thebibleproject.com\/product\/revelation-11-22","category":"Read Scripture New Testament","summary":"John recounts his visions about Jesus&#039; exalted rule over the world and how he will in due time bring final justice on the world&#039;s evil and return to bring renewal to all creation.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-REV2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-revelation-11-22-video","youtube_id":"QpnIrbq2bKo","funded":"true","data_links":{"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-revelation-11-22-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>New Testament:<br/>Revelation 11-22</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-revelation-11-22-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Revelation 11-22","url":"https:\/\/thebibleproject.com\/product\/revelation-11-22","category":"Read Scripture New Testament","summary":"John recounts his visions about Jesus&#039; exalted rule over the world and how he will in due time bring final justice on the world&#039;s evil and return to bring renewal to all creation.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/12\/TBP-Web-RSThumbnail-REV2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-revelation-11-22-video","youtube_id":"QpnIrbq2bKo","funded":"true","data_links":{"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-revelation-11-22-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>New Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+
+            </div> <!-- owl-carousel -->
+
+            <div class="maskbutton__right">
+              <a class="btn next icon-TBP-Right-Arrow"></a>
+            </div>
+
+          </section> <!-- video-mod__display -->
+
+          <section class="drawer-display">
+            <div class="drawer-display__arrow"></div>
+            <div class="drawer-display_close icon-TBP-X-Close"></div>
+
+            <article class="drawer-display__content">
+              <h3 class="drawer-display__content__title"></h3>
+              <p class="drawer-display__content__summary"></p>
+              <ul class="drawer-display__content__links">
+                <div class="link__container"></div>
+                <li class="links__link link__share">
+                  <a href="#" class="share-now" ><span class="icon-TBP-Share"></span>Share</a>
+                </li>
+              </ul>
+            </article> <!-- drawer-display__content -->
+
+            <img class="drawer-display__loader" src="./wp-content/themes/tbp/assets/images/ring.svg">
+
+            <article class="drawer-display__video"></article>
+
+          </section> <!-- .drawer-display -->
+
+        </article>
+
+  

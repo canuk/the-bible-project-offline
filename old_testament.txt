@@ -1,0 +1,1265 @@
+
+
+          
+          <section class="mobile-cover mobile-cover--tap">
+            <h3 class="mobile-cover__title">Read Scripture Old Testament</h3>
+            <img class="mobile-cover__img" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-PSALMS-1.jpg" alt="">
+            <span class="mobile-cover__plus icon-TBP-Circle-Plus"></span>
+            <div class="mobile-cover__cta">Watch Videos</div>
+          </section>
+
+          <section class="mobile-close-btn">
+            <span class="icon-TBP-X-Close"></span>
+          </section>
+
+          <h3 class="video-mod__title">Read Scripture Old Testament</h3>
+          <span class="video-mod__status">40 of 40 Funded Videos</span>
+
+          <p class="video-mod-desc">We want to help you to read through the bible without getting lost or giving up. This series has a video for every book of the Bible that outlines its literary design and main ideas, showing you how it fits into the entire biblical story.</p>
+
+          <section class="video-mod__display-carousel">
+
+            <div class="maskbutton__left">
+              <a class="btn prev icon-TBP-Left-Arrow"></a>
+            </div>
+
+            <div class="owl-carousel">
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-GEN1-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='GQI72THyO5I'
+                           data-videoTitle='Genesis 1-11'
+                           data-videoSummary='Genesis 1-11: God makes a good world, but humanity rebels against God and ruins that world. We trace how that story leads up to God&#039;s plan to rescue and bless the whole world through Abraham.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/genesis-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/genesis-1-11-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/genesis-1-11-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Genesis 1-11","url":"https:\/\/thebibleproject.com\/product\/genesis-1-11","category":"Read Scripture Old Testament","summary":"Genesis 1-11: God makes a good world, but humanity rebels against God and ruins that world. We trace how that story leads up to God&#039;s plan to rescue and bless the whole world through Abraham.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-GEN1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/genesis-1-11-video","youtube_id":"GQI72THyO5I","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/genesis-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/genesis-1-11-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/genesis-1-11-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Genesis 1-11</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/genesis-1-11-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Genesis 1-11","url":"https:\/\/thebibleproject.com\/product\/genesis-1-11","category":"Read Scripture Old Testament","summary":"Genesis 1-11: God makes a good world, but humanity rebels against God and ruins that world. We trace how that story leads up to God&#039;s plan to rescue and bless the whole world through Abraham.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-GEN1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/genesis-1-11-video","youtube_id":"GQI72THyO5I","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/genesis-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/genesis-1-11-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/genesis-1-11-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-GEN2-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='F4isSyennFo'
+                           data-videoTitle='Genesis 12-50'
+                           data-videoSummary='Genesis 12-50: God makes a promise to bless rebellious humanity through the family of Abraham, and the story follows this promise through four generations.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/genesis-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/genesis-12-50-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-genesis-12-50-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Genesis 12-50","url":"https:\/\/thebibleproject.com\/product\/read-scripture-genesis-12-50","category":"Read Scripture Old Testament","summary":"Genesis 12-50: God makes a promise to bless rebellious humanity through the family of Abraham, and the story follows this promise through four generations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-GEN2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-genesis-12-50-video","youtube_id":"F4isSyennFo","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/genesis-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/genesis-12-50-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-genesis-12-50-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Genesis 12-50</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-genesis-12-50-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Genesis 12-50","url":"https:\/\/thebibleproject.com\/product\/read-scripture-genesis-12-50","category":"Read Scripture Old Testament","summary":"Genesis 12-50: God makes a promise to bless rebellious humanity through the family of Abraham, and the story follows this promise through four generations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-GEN2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-genesis-12-50-video","youtube_id":"F4isSyennFo","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/genesis-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/genesis-12-50-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-genesis-12-50-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-EX1-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='jH_aojNJM3E'
+                           data-videoTitle='Exodus 1-18'
+                           data-videoSummary='God rescues the Israelites from slavery in Egypt and confronts the evil and injustice of Pharaoh the king.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/exodus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/exodus-1-18-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-1-18-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Exodus 1-18","url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-1-18","category":"Read Scripture Old Testament","summary":"God rescues the Israelites from slavery in Egypt and confronts the evil and injustice of Pharaoh the king.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EX1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-exodus-1-18-video","youtube_id":"jH_aojNJM3E","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/exodus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/exodus-1-18-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-1-18-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Exodus 1-18</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-exodus-1-18-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Exodus 1-18","url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-1-18","category":"Read Scripture Old Testament","summary":"God rescues the Israelites from slavery in Egypt and confronts the evil and injustice of Pharaoh the king.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EX1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-exodus-1-18-video","youtube_id":"jH_aojNJM3E","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/exodus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/exodus-1-18-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-1-18-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-EX2-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='oNpTha80yyE'
+                           data-videoTitle='Exodus 19-40'
+                           data-videoSummary='God invites the redeemed Israelites into a covenant relationship and comes to personally live among them in the Tabernacle. Israel rebels, however, creating a rift in the relationship.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/exodus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/exodus-19-40-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-19-40-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Exodus 19-40","url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-19-40","category":"Read Scripture Old Testament","summary":"God invites the redeemed Israelites into a covenant relationship and comes to personally live among them in the Tabernacle. Israel rebels, however, creating a rift in the relationship.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EX2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-exodus-19-40-video","youtube_id":"oNpTha80yyE","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/exodus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/exodus-19-40-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-19-40-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Exodus 19-40</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-exodus-19-40-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Exodus 19-40","url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-19-40","category":"Read Scripture Old Testament","summary":"God invites the redeemed Israelites into a covenant relationship and comes to personally live among them in the Tabernacle. Israel rebels, however, creating a rift in the relationship.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EX2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-exodus-19-40-video","youtube_id":"oNpTha80yyE","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/exodus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/exodus-19-40-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-exodus-19-40-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-LEV-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='IJ-FekWUZzE'
+                           data-videoTitle='Leviticus'
+                           data-videoSummary='God responds to Israel&#039;s sin and rebellion by providing an elaborate series of rituals and institutions to cover over their sin. God&#039;s holiness motivates him to deal with their rebellion so he can live among them in peace.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/leviticus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/leviticus-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-leviticus-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Leviticus","url":"https:\/\/thebibleproject.com\/product\/read-scripture-leviticus","category":"Read Scripture Old Testament","summary":"God responds to Israel&#039;s sin and rebellion by providing an elaborate series of rituals and institutions to cover over their sin. God&#039;s holiness motivates him to deal with their rebellion so he can live among them in peace.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-LEV-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-leviticus-video","youtube_id":"IJ-FekWUZzE","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/leviticus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/leviticus-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-leviticus-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Leviticus</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-leviticus-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Leviticus","url":"https:\/\/thebibleproject.com\/product\/read-scripture-leviticus","category":"Read Scripture Old Testament","summary":"God responds to Israel&#039;s sin and rebellion by providing an elaborate series of rituals and institutions to cover over their sin. God&#039;s holiness motivates him to deal with their rebellion so he can live among them in peace.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-LEV-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-leviticus-video","youtube_id":"IJ-FekWUZzE","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/leviticus-poster","tagSlug":"posters","tagName":"Poster"},"study-guides":{"url":"https:\/\/thebibleproject.com\/product\/leviticus-study-notes","tagSlug":"study-guides","tagName":"Study Notes"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-leviticus-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-NUM-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='tp5MIrMZFqo'
+                           data-videoTitle='Numbers'
+                           data-videoSummary='Numbers: Israel leaves Mount Sinai and travels through the wilderness on the way to the land promised to Abraham. The trip goes horribly as Israel rebels, and reveals how God shows both justice and mercy on his people.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/numbers-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-numbers-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Numbers","url":"https:\/\/thebibleproject.com\/product\/read-scripture-numbers","category":"Read Scripture Old Testament","summary":"Numbers: Israel leaves Mount Sinai and travels through the wilderness on the way to the land promised to Abraham. The trip goes horribly as Israel rebels, and reveals how God shows both justice and mercy on his people.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-NUM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-numbers-video","youtube_id":"tp5MIrMZFqo","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/numbers-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-numbers-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Numbers</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-numbers-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Numbers","url":"https:\/\/thebibleproject.com\/product\/read-scripture-numbers","category":"Read Scripture Old Testament","summary":"Numbers: Israel leaves Mount Sinai and travels through the wilderness on the way to the land promised to Abraham. The trip goes horribly as Israel rebels, and reveals how God shows both justice and mercy on his people.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-NUM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-numbers-video","youtube_id":"tp5MIrMZFqo","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/numbers-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-numbers-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-DEUT-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='q5QEH9bH8AU'
+                           data-videoTitle='Deuteronomy'
+                           data-videoSummary='Deuteronomy: Moses gives Israel his final words of wisdom and warning before they enter the promised land. He challenges them to be faithful to the covenant and love God.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/deuteronomy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-deuteronomy-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Deuteronomy","url":"https:\/\/thebibleproject.com\/product\/read-scripture-deuteronomy","category":"Read Scripture Old Testament","summary":"Deuteronomy: Moses gives Israel his final words of wisdom and warning before they enter the promised land. He challenges them to be faithful to the covenant and love God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-DEUT-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-deuteronomy-video","youtube_id":"q5QEH9bH8AU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/deuteronomy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-deuteronomy-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Deuteronomy</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-deuteronomy-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Deuteronomy","url":"https:\/\/thebibleproject.com\/product\/read-scripture-deuteronomy","category":"Read Scripture Old Testament","summary":"Deuteronomy: Moses gives Israel his final words of wisdom and warning before they enter the promised land. He challenges them to be faithful to the covenant and love God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-DEUT-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-deuteronomy-video","youtube_id":"q5QEH9bH8AU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/deuteronomy-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-deuteronomy-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JOSH-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='JqOqJlFF_eU'
+                           data-videoTitle='Joshua'
+                           data-videoSummary='After Moses&#039; death, Joshua leads Israel into the land promised to Abraham and helps them overcome the attacks of the Canaanites. Israel settles in the land and is challenged to be faithful to their God.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/joshua-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-joshua-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Joshua","url":"https:\/\/thebibleproject.com\/product\/read-scripture-joshua","category":"Read Scripture Old Testament","summary":"After Moses&#039; death, Joshua leads Israel into the land promised to Abraham and helps them overcome the attacks of the Canaanites. Israel settles in the land and is challenged to be faithful to their God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOSH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-joshua-video","youtube_id":"JqOqJlFF_eU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/joshua-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-joshua-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Joshua</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-joshua-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Joshua","url":"https:\/\/thebibleproject.com\/product\/read-scripture-joshua","category":"Read Scripture Old Testament","summary":"After Moses&#039; death, Joshua leads Israel into the land promised to Abraham and helps them overcome the attacks of the Canaanites. Israel settles in the land and is challenged to be faithful to their God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOSH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-joshua-video","youtube_id":"JqOqJlFF_eU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/joshua-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-joshua-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JUDGES-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='kOYy8iCfIJ4'
+                           data-videoTitle='Judges'
+                           data-videoSummary='After Joshua&#039;s death, Israel turns away from their God and breaks the covenant. This begins a cycle of rebellion, repentance, and restoration as God patiently stays committed to an unfaithful people.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/judges-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-judges-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Judges","url":"https:\/\/thebibleproject.com\/product\/read-scripture-judges","category":"Read Scripture Old Testament","summary":"After Joshua&#039;s death, Israel turns away from their God and breaks the covenant. This begins a cycle of rebellion, repentance, and restoration as God patiently stays committed to an unfaithful people.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JUDGES-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-judges-video","youtube_id":"kOYy8iCfIJ4","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/judges-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-judges-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Judges</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-judges-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Judges","url":"https:\/\/thebibleproject.com\/product\/read-scripture-judges","category":"Read Scripture Old Testament","summary":"After Joshua&#039;s death, Israel turns away from their God and breaks the covenant. This begins a cycle of rebellion, repentance, and restoration as God patiently stays committed to an unfaithful people.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JUDGES-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-judges-video","youtube_id":"kOYy8iCfIJ4","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/judges-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-judges-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-RUTH-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='nl-Nlu17_ao'
+                           data-videoTitle='Ruth'
+                           data-videoSummary='Ruth: An Israelite family is struck by a series of tragic deaths, and God mysteriously provides for the widows through the generous acts of an Israelite farmer. The story explores how God can use all life experiences as part of his plan to bless and redeem his people.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ruth-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ruth-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Ruth","url":"https:\/\/thebibleproject.com\/product\/read-scripture-ruth","category":"Read Scripture Old Testament","summary":"Ruth: An Israelite family is struck by a series of tragic deaths, and God mysteriously provides for the widows through the generous acts of an Israelite farmer. The story explores how God can use all life experiences as part of his plan to bless and redeem his people.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-RUTH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ruth-video","youtube_id":"nl-Nlu17_ao","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ruth-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ruth-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Ruth</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-ruth-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Ruth","url":"https:\/\/thebibleproject.com\/product\/read-scripture-ruth","category":"Read Scripture Old Testament","summary":"Ruth: An Israelite family is struck by a series of tragic deaths, and God mysteriously provides for the widows through the generous acts of an Israelite farmer. The story explores how God can use all life experiences as part of his plan to bless and redeem his people.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-RUTH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ruth-video","youtube_id":"nl-Nlu17_ao","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ruth-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ruth-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-1SAM-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='QJOju5Dw0V0'
+                           data-videoTitle='1 Samuel'
+                           data-videoSummary='1 Samuel: God raises up Samuel to lead Israel in a desperate time, which eventually leads to the advent of the kingdom in Israel. Israel&#039;s first king, Saul, is a miserable failure and is replaced by the humble, faithful, David who rises to greatness.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-samuel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-samuel-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"1 Samuel","url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-samuel","category":"Read Scripture Old Testament","summary":"1 Samuel: God raises up Samuel to lead Israel in a desperate time, which eventually leads to the advent of the kingdom in Israel. Israel&#039;s first king, Saul, is a miserable failure and is replaced by the humble, faithful, David who rises to greatness.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-1SAM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-samuel-video","youtube_id":"QJOju5Dw0V0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-samuel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-samuel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>1 Samuel</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-1-samuel-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"1 Samuel","url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-samuel","category":"Read Scripture Old Testament","summary":"1 Samuel: God raises up Samuel to lead Israel in a desperate time, which eventually leads to the advent of the kingdom in Israel. Israel&#039;s first king, Saul, is a miserable failure and is replaced by the humble, faithful, David who rises to greatness.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-1SAM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-1-samuel-video","youtube_id":"QJOju5Dw0V0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-samuel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-1-samuel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-2SAM-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='YvoWDXNDJgs'
+                           data-videoTitle='2 Samuel'
+                           data-videoSummary='2 Samuel: David becomes God&#039;s most faithful king, but then rebels, resulting in the slow destruction of his family and kingdom. The story offers a many-sided portrait of Israel&#039;s most famous king as a case study in human nature.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-samuel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-samuel-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"2 Samuel","url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-samuel","category":"Read Scripture Old Testament","summary":"2 Samuel: David becomes God&#039;s most faithful king, but then rebels, resulting in the slow destruction of his family and kingdom. The story offers a many-sided portrait of Israel&#039;s most famous king as a case study in human nature.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-2SAM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-samuel-video","youtube_id":"YvoWDXNDJgs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-samuel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-samuel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>2 Samuel</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-2-samuel-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"2 Samuel","url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-samuel","category":"Read Scripture Old Testament","summary":"2 Samuel: David becomes God&#039;s most faithful king, but then rebels, resulting in the slow destruction of his family and kingdom. The story offers a many-sided portrait of Israel&#039;s most famous king as a case study in human nature.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-2SAM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-2-samuel-video","youtube_id":"YvoWDXNDJgs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/1-2-samuel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-2-samuel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-KINGS-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='bVFW3wbi9pk'
+                           data-videoTitle='Kings'
+                           data-videoSummary='After David, Solomon leads Israel to a period of greatness, followed by failure and rebellion. Israel splits into two separate kingdoms, and the story traces the slow decline of both, resulting in destruction at the hands of foreign empires. God sends wave of prophets to hold Israel accountable, but Israel ignores them to their peril.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/12-kings-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-kings-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Kings","url":"https:\/\/thebibleproject.com\/product\/read-scripture-kings","category":"Read Scripture Old Testament","summary":"After David, Solomon leads Israel to a period of greatness, followed by failure and rebellion. Israel splits into two separate kingdoms, and the story traces the slow decline of both, resulting in destruction at the hands of foreign empires. God sends wave of prophets to hold Israel accountable, but Israel ignores them to their peril.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-KINGS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-kings-video","youtube_id":"bVFW3wbi9pk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/12-kings-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-kings-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Kings</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-kings-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Kings","url":"https:\/\/thebibleproject.com\/product\/read-scripture-kings","category":"Read Scripture Old Testament","summary":"After David, Solomon leads Israel to a period of greatness, followed by failure and rebellion. Israel splits into two separate kingdoms, and the story traces the slow decline of both, resulting in destruction at the hands of foreign empires. God sends wave of prophets to hold Israel accountable, but Israel ignores them to their peril.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-KINGS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-kings-video","youtube_id":"bVFW3wbi9pk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/12-kings-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-kings-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-EZ-NEH-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='MkETkRv9tG8'
+                           data-videoTitle='Ezra-Nehemiah'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezra-nehemiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezra-nehemiah-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Ezra-Nehemiah","url":"https:\/\/thebibleproject.com\/product\/ezra-nehemiah","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EZ-NEH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ezra-nehemiah-video","youtube_id":"MkETkRv9tG8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezra-nehemiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezra-nehemiah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Ezra-Nehemiah</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-ezra-nehemiah-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Ezra-Nehemiah","url":"https:\/\/thebibleproject.com\/product\/ezra-nehemiah","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EZ-NEH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ezra-nehemiah-video","youtube_id":"MkETkRv9tG8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezra-nehemiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezra-nehemiah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-ESTHER-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='JydNSlufRIs'
+                           data-videoTitle='Esther'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/esther-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-esther-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Esther","url":"https:\/\/thebibleproject.com\/product\/esther","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ESTHER-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-esther-video","youtube_id":"JydNSlufRIs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/esther-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-esther-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Esther</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-esther-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Esther","url":"https:\/\/thebibleproject.com\/product\/esther","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ESTHER-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-esther-video","youtube_id":"JydNSlufRIs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/esther-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-esther-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JOB-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='xQwnH8th_fs'
+                           data-videoTitle='Job'
+                           data-videoSummary='The book of Job explores the difficult question of God&#039;s relationship to human suffering. And while it doesn&#039;t offer tidy answers, we are invited into new levels of trust in God&#039;s wisdom and character.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/job-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-job-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Job","url":"https:\/\/thebibleproject.com\/product\/read-scripture-job","category":"Read Scripture Old Testament","summary":"The book of Job explores the difficult question of God&#039;s relationship to human suffering. And while it doesn&#039;t offer tidy answers, we are invited into new levels of trust in God&#039;s wisdom and character.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOB-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-job-video","youtube_id":"xQwnH8th_fs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/job-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-job-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Job</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-job-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Job","url":"https:\/\/thebibleproject.com\/product\/read-scripture-job","category":"Read Scripture Old Testament","summary":"The book of Job explores the difficult question of God&#039;s relationship to human suffering. And while it doesn&#039;t offer tidy answers, we are invited into new levels of trust in God&#039;s wisdom and character.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOB-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-job-video","youtube_id":"xQwnH8th_fs","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/job-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-job-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-PSALMS-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='j9phNEaPrv8'
+                           data-videoTitle='Psalms'
+                           data-videoSummary='The book of Psalms has been designed to be the prayerbook of God&#039;s people who are trying to faithful to be to God as they wait for the Messiah and his coming kingdom.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/psalms-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-psalms-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Psalms","url":"https:\/\/thebibleproject.com\/product\/read-scripture-psalms","category":"Read Scripture Old Testament","summary":"The book of Psalms has been designed to be the prayerbook of God&#039;s people who are trying to faithful to be to God as they wait for the Messiah and his coming kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-PSALMS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-psalms-video","youtube_id":"j9phNEaPrv8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/psalms-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-psalms-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Psalms</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-psalms-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Psalms","url":"https:\/\/thebibleproject.com\/product\/read-scripture-psalms","category":"Read Scripture Old Testament","summary":"The book of Psalms has been designed to be the prayerbook of God&#039;s people who are trying to faithful to be to God as they wait for the Messiah and his coming kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-PSALMS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-psalms-video","youtube_id":"j9phNEaPrv8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/psalms-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-psalms-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-PROV-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='AzmYV8GNAIM'
+                           data-videoTitle='Proverbs'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/proverbs-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-proverbs-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Proverbs","url":"https:\/\/thebibleproject.com\/product\/read-scripture-proverbs","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-PROV-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-proverbs-video","youtube_id":"AzmYV8GNAIM","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/proverbs-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-proverbs-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Proverbs</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-proverbs-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Proverbs","url":"https:\/\/thebibleproject.com\/product\/read-scripture-proverbs","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-PROV-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-proverbs-video","youtube_id":"AzmYV8GNAIM","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/proverbs-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-proverbs-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-ECCL-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='lrsQ1tc-2wk'
+                           data-videoTitle='Ecclesiastes'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ecclesiastes-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ecclesiastes-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Ecclesiastes","url":"https:\/\/thebibleproject.com\/product\/ecclesiastes","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ECCL-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ecclesiastes-video","youtube_id":"lrsQ1tc-2wk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ecclesiastes-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ecclesiastes-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Ecclesiastes</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-ecclesiastes-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Ecclesiastes","url":"https:\/\/thebibleproject.com\/product\/ecclesiastes","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ECCL-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ecclesiastes-video","youtube_id":"lrsQ1tc-2wk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ecclesiastes-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ecclesiastes-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-SONGS-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='4KC7xE4fgOw'
+                           data-videoTitle='Song of Songs'
+                           data-videoSummary='The Song of Songs is a collection of ancient Israelite love poems that celebrates the beauty and power of God&#039;s gift of love and sexual desire.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/song-of-songs-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-song-of-songs-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Song of Songs","url":"https:\/\/thebibleproject.com\/product\/read-scripture-song-of-songs","category":"Read Scripture Old Testament","summary":"The Song of Songs is a collection of ancient Israelite love poems that celebrates the beauty and power of God&#039;s gift of love and sexual desire.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-SONGS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-song-of-songs-video","youtube_id":"4KC7xE4fgOw","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/song-of-songs-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-song-of-songs-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Song of Songs</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-song-of-songs-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Song of Songs","url":"https:\/\/thebibleproject.com\/product\/read-scripture-song-of-songs","category":"Read Scripture Old Testament","summary":"The Song of Songs is a collection of ancient Israelite love poems that celebrates the beauty and power of God&#039;s gift of love and sexual desire.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-SONGS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-song-of-songs-video","youtube_id":"4KC7xE4fgOw","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/song-of-songs-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-song-of-songs-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-ISA1-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='d0A6Uchb1F8'
+                           data-videoTitle='Isaiah 1-39'
+                           data-videoSummary='Isaiah announces a message of judgment on Israel&#039;s failure to keep their covenant with God. It will purify Israel to prepare them for the coming messianic king who found the new Jerusalem to become a light to the nations. But all of these hopes seem to come crashing down with Israel&#039;s exile. How will the promises be fulfilled?'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/isaiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-1-39-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Isaiah 1-39","url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-1-39","category":"Read Scripture Old Testament","summary":"Isaiah announces a message of judgment on Israel&#039;s failure to keep their covenant with God. It will purify Israel to prepare them for the coming messianic king who found the new Jerusalem to become a light to the nations. But all of these hopes seem to come crashing down with Israel&#039;s exile. How will the promises be fulfilled?","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ISA1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-isaiah-1-39-video","youtube_id":"d0A6Uchb1F8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/isaiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-1-39-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Isaiah 1-39</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-isaiah-1-39-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Isaiah 1-39","url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-1-39","category":"Read Scripture Old Testament","summary":"Isaiah announces a message of judgment on Israel&#039;s failure to keep their covenant with God. It will purify Israel to prepare them for the coming messianic king who found the new Jerusalem to become a light to the nations. But all of these hopes seem to come crashing down with Israel&#039;s exile. How will the promises be fulfilled?","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ISA1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-isaiah-1-39-video","youtube_id":"d0A6Uchb1F8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/isaiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-1-39-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-ISA2-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='_TzdEPuqgQg'
+                           data-videoTitle='Isaiah 40-66'
+                           data-videoSummary='On the other side of Israel&#039;s exile, Isaiah&#039;s hope for the new Jerusalem and the messianic king are announced. It&#039;s then revealed that Israel is still hard-hearted after the exile, and that their king will become a suffering servant who will die for the sins of Israel and open up the covenant family of God to all nations.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/isaiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-40-66-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Isaiah 40-66","url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-40-66","category":"Read Scripture Old Testament","summary":"On the other side of Israel&#039;s exile, Isaiah&#039;s hope for the new Jerusalem and the messianic king are announced. It&#039;s then revealed that Israel is still hard-hearted after the exile, and that their king will become a suffering servant who will die for the sins of Israel and open up the covenant family of God to all nations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ISA2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-isaiah-40-66-video","youtube_id":"_TzdEPuqgQg","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/isaiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-40-66-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Isaiah 40-66</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-isaiah-40-66-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Isaiah 40-66","url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-40-66","category":"Read Scripture Old Testament","summary":"On the other side of Israel&#039;s exile, Isaiah&#039;s hope for the new Jerusalem and the messianic king are announced. It&#039;s then revealed that Israel is still hard-hearted after the exile, and that their king will become a suffering servant who will die for the sins of Israel and open up the covenant family of God to all nations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ISA2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-isaiah-40-66-video","youtube_id":"_TzdEPuqgQg","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/isaiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-isaiah-40-66-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JER-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='RSK36cHbrk0'
+                           data-videoTitle='Jeremiah'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jeremiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jeremiah-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Jeremiah","url":"https:\/\/thebibleproject.com\/product\/jeremiah","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JER-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-jeremiah-video","youtube_id":"RSK36cHbrk0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jeremiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jeremiah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Jeremiah</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-jeremiah-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Jeremiah","url":"https:\/\/thebibleproject.com\/product\/jeremiah","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JER-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-jeremiah-video","youtube_id":"RSK36cHbrk0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jeremiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jeremiah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-LAM-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='p8GDFPdaQZQ'
+                           data-videoTitle='Lamentations'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/lamentations-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-lamentations-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Lamentations","url":"https:\/\/thebibleproject.com\/product\/lamentations","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-LAM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-lamentations-video","youtube_id":"p8GDFPdaQZQ","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/lamentations-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-lamentations-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Lamentations</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-lamentations-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Lamentations","url":"https:\/\/thebibleproject.com\/product\/lamentations","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-LAM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-lamentations-video","youtube_id":"p8GDFPdaQZQ","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/lamentations-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-lamentations-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-EZE1-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='R-CIPu1nko8'
+                           data-videoTitle='Ezekiel 1-33'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezekiel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezekiel-1-33-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Ezekiel 1-33","url":"https:\/\/thebibleproject.com\/product\/ezekial-1-33","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EZE1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ezekiel-1-33-video","youtube_id":"R-CIPu1nko8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezekiel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezekiel-1-33-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Ezekiel 1-33</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-ezekiel-1-33-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Ezekiel 1-33","url":"https:\/\/thebibleproject.com\/product\/ezekial-1-33","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EZE1-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ezekiel-1-33-video","youtube_id":"R-CIPu1nko8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezekiel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezekiel-1-33-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-EZE2-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='SDeCWW_Bnyw'
+                           data-videoTitle='Ezekiel 34-48'
+                           data-videoSummary=''
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezekiel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezekiel-34-48-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Ezekiel 34-48","url":"https:\/\/thebibleproject.com\/product\/ezekiel-34-48","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EZE2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ezekiel-34-48-video","youtube_id":"SDeCWW_Bnyw","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezekiel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezekiel-34-48-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Ezekiel 34-48</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-ezekiel-34-48-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Ezekiel 34-48","url":"https:\/\/thebibleproject.com\/product\/ezekiel-34-48","category":"Read Scripture Old Testament","summary":"","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-EZE2-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-ezekiel-34-48-video","youtube_id":"SDeCWW_Bnyw","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/ezekiel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-ezekiel-34-48-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-DAN-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='9cSC9uobtPM'
+                           data-videoTitle='Daniel'
+                           data-videoSummary='The story of Daniel and his friends in Babylon motivate faithfulness in the midst of exile in a foreign land. Daniels&#039; visions offer hope that God will one day bring his kingdom and defeat evil among all the nations.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/daniel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-daniel-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Daniel","url":"https:\/\/thebibleproject.com\/product\/daniel","category":"Read Scripture Old Testament","summary":"The story of Daniel and his friends in Babylon motivate faithfulness in the midst of exile in a foreign land. Daniels&#039; visions offer hope that God will one day bring his kingdom and defeat evil among all the nations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-DAN-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-daniel-video","youtube_id":"9cSC9uobtPM","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/daniel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-daniel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Daniel</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-daniel-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Daniel","url":"https:\/\/thebibleproject.com\/product\/daniel","category":"Read Scripture Old Testament","summary":"The story of Daniel and his friends in Babylon motivate faithfulness in the midst of exile in a foreign land. Daniels&#039; visions offer hope that God will one day bring his kingdom and defeat evil among all the nations.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-DAN-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-daniel-video","youtube_id":"9cSC9uobtPM","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/daniel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-daniel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-HOSEA-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='kE6SZ1ogOVU'
+                           data-videoTitle='Hosea'
+                           data-videoSummary='Hosea accuses Israel of breaking their covenant with God, and warns them of the tragic consequences to follow. But because God&#039;s mercy and covenant love are more powerful than Israel&#039;s sin, Hosea also announces hope for the future of Israel after the exile.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/hosea-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-hosea-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Hosea","url":"https:\/\/thebibleproject.com\/product\/read-scripture-hosea","category":"Read Scripture Old Testament","summary":"Hosea accuses Israel of breaking their covenant with God, and warns them of the tragic consequences to follow. But because God&#039;s mercy and covenant love are more powerful than Israel&#039;s sin, Hosea also announces hope for the future of Israel after the exile.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HOSEA-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-hosea-video","youtube_id":"kE6SZ1ogOVU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/hosea-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-hosea-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Hosea</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-hosea-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Hosea","url":"https:\/\/thebibleproject.com\/product\/read-scripture-hosea","category":"Read Scripture Old Testament","summary":"Hosea accuses Israel of breaking their covenant with God, and warns them of the tragic consequences to follow. But because God&#039;s mercy and covenant love are more powerful than Israel&#039;s sin, Hosea also announces hope for the future of Israel after the exile.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HOSEA-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-hosea-video","youtube_id":"kE6SZ1ogOVU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/hosea-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-hosea-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JOEL-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='zQLazbgz90c'
+                           data-videoTitle='Joel'
+                           data-videoSummary='Joel views a recent locust plague as an expression of the &quot;Day of the Lord&#039;s&quot; justice for Israel&#039;s sin. But his reflection on the Scriptures leads him to trust that true repentance will bring about the great restoration hoped for in the other prophetic books. For Joel, the past has become an image of the future.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/joel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-joel-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Joel","url":"https:\/\/thebibleproject.com\/product\/read-scripture-joel","category":"Read Scripture Old Testament","summary":"Joel views a recent locust plague as an expression of the &quot;Day of the Lord&#039;s&quot; justice for Israel&#039;s sin. But his reflection on the Scriptures leads him to trust that true repentance will bring about the great restoration hoped for in the other prophetic books. For Joel, the past has become an image of the future.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOEL-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-joel-video","youtube_id":"zQLazbgz90c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/joel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-joel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Joel</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-joel-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Joel","url":"https:\/\/thebibleproject.com\/product\/read-scripture-joel","category":"Read Scripture Old Testament","summary":"Joel views a recent locust plague as an expression of the &quot;Day of the Lord&#039;s&quot; justice for Israel&#039;s sin. But his reflection on the Scriptures leads him to trust that true repentance will bring about the great restoration hoped for in the other prophetic books. For Joel, the past has become an image of the future.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JOEL-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-joel-video","youtube_id":"zQLazbgz90c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/joel-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-joel-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-AMOS-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='mGgWaPGpGz4'
+                           data-videoTitle='Amos'
+                           data-videoSummary='Amos accuses Israel of breaking their covenant with God, and highlights how their idolatry has led to injustice and the neglect of the poor. Amos warns of God&#039;s coming justice on their sin, and challenges them that true worship of God will always lead to justice for the poor. The book ends with a promise of the messianic kingdom on the other side of God&#039;s judgment.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/amos-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-amos-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Amos","url":"https:\/\/thebibleproject.com\/product\/read-scripture-amos","category":"Read Scripture Old Testament","summary":"Amos accuses Israel of breaking their covenant with God, and highlights how their idolatry has led to injustice and the neglect of the poor. Amos warns of God&#039;s coming justice on their sin, and challenges them that true worship of God will always lead to justice for the poor. The book ends with a promise of the messianic kingdom on the other side of God&#039;s judgment.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-AMOS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-amos-video","youtube_id":"mGgWaPGpGz4","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/amos-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-amos-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Amos</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-amos-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Amos","url":"https:\/\/thebibleproject.com\/product\/read-scripture-amos","category":"Read Scripture Old Testament","summary":"Amos accuses Israel of breaking their covenant with God, and highlights how their idolatry has led to injustice and the neglect of the poor. Amos warns of God&#039;s coming justice on their sin, and challenges them that true worship of God will always lead to justice for the poor. The book ends with a promise of the messianic kingdom on the other side of God&#039;s judgment.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-AMOS-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-amos-video","youtube_id":"mGgWaPGpGz4","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/amos-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-amos-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-OBA-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='i4ogCrEoG5s'
+                           data-videoTitle='Obadiah'
+                           data-videoSummary='Obadiah accuses the nation of Edom, Israel&#039;s neighbor and relative, of violence and injustice. But Edom&#039;s downfall before Babylon becomes an image of how God will one day bring down all arrogant and violent nations and establish his kingdom of justice over them.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/obadiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-obadiah-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Obadiah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-obadiah","category":"Read Scripture Old Testament","summary":"Obadiah accuses the nation of Edom, Israel&#039;s neighbor and relative, of violence and injustice. But Edom&#039;s downfall before Babylon becomes an image of how God will one day bring down all arrogant and violent nations and establish his kingdom of justice over them.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-OBA-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-obadiah-video","youtube_id":"i4ogCrEoG5s","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/obadiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-obadiah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Obadiah</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-obadiah-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Obadiah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-obadiah","category":"Read Scripture Old Testament","summary":"Obadiah accuses the nation of Edom, Israel&#039;s neighbor and relative, of violence and injustice. But Edom&#039;s downfall before Babylon becomes an image of how God will one day bring down all arrogant and violent nations and establish his kingdom of justice over them.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-OBA-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-obadiah-video","youtube_id":"i4ogCrEoG5s","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/obadiah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-obadiah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-JONAH-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='dLIabZc0O4c'
+                           data-videoTitle='Jonah'
+                           data-videoSummary='A subversive story about a rebellious prophet who hates his God for loving his enemies. Jonah&#039;s ridiculous behavior contrasts the soft-hearted repentant of the gentiles in this story, and so becomes the author&#039;s way of challenging the reader to reckon with God&#039;s love for their enemies as well.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jonah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jonah-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Jonah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-jonah","category":"Read Scripture Old Testament","summary":"A subversive story about a rebellious prophet who hates his God for loving his enemies. Jonah&#039;s ridiculous behavior contrasts the soft-hearted repentant of the gentiles in this story, and so becomes the author&#039;s way of challenging the reader to reckon with God&#039;s love for their enemies as well.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JONAH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-jonah-video","youtube_id":"dLIabZc0O4c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jonah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jonah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Jonah</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-jonah-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Jonah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-jonah","category":"Read Scripture Old Testament","summary":"A subversive story about a rebellious prophet who hates his God for loving his enemies. Jonah&#039;s ridiculous behavior contrasts the soft-hearted repentant of the gentiles in this story, and so becomes the author&#039;s way of challenging the reader to reckon with God&#039;s love for their enemies as well.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-JONAH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-jonah-video","youtube_id":"dLIabZc0O4c","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/jonah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-jonah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-MICAH-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='MFEUEcylwLc'
+                           data-videoTitle='Micah'
+                           data-videoSummary='Micah announces that God&#039;s justice is coming down on Israel&#039;s sin and covenant failure. But their sin is not the final word, as God&#039;s covenant love and faithfulness will create a new future on the other side of Israel&#039;s sin and exile.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/micah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-micah-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Micah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-micah","category":"Read Scripture Old Testament","summary":"Micah announces that God&#039;s justice is coming down on Israel&#039;s sin and covenant failure. But their sin is not the final word, as God&#039;s covenant love and faithfulness will create a new future on the other side of Israel&#039;s sin and exile.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MICAH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-micah-video","youtube_id":"MFEUEcylwLc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/micah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-micah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Micah</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-micah-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Micah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-micah","category":"Read Scripture Old Testament","summary":"Micah announces that God&#039;s justice is coming down on Israel&#039;s sin and covenant failure. But their sin is not the final word, as God&#039;s covenant love and faithfulness will create a new future on the other side of Israel&#039;s sin and exile.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MICAH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-micah-video","youtube_id":"MFEUEcylwLc","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/micah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-micah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-NAHUM-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='Y30DanA5EhU'
+                           data-videoTitle='Nahum'
+                           data-videoSummary='Nahum portrays the downfall of Nineveh and Assyria as an image of how God will confront and bring down all violent human empires. His message of justice against Nineveh challenges us toward humility and hope for the future of God&#039;s world.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/nahum-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-nahum-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Nahum","url":"https:\/\/thebibleproject.com\/product\/read-scripture-nahum","category":"Read Scripture Old Testament","summary":"Nahum portrays the downfall of Nineveh and Assyria as an image of how God will confront and bring down all violent human empires. His message of justice against Nineveh challenges us toward humility and hope for the future of God&#039;s world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-NAHUM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-nahum-video","youtube_id":"Y30DanA5EhU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/nahum-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-nahum-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Nahum</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-nahum-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Nahum","url":"https:\/\/thebibleproject.com\/product\/read-scripture-nahum","category":"Read Scripture Old Testament","summary":"Nahum portrays the downfall of Nineveh and Assyria as an image of how God will confront and bring down all violent human empires. His message of justice against Nineveh challenges us toward humility and hope for the future of God&#039;s world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-NAHUM-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-nahum-video","youtube_id":"Y30DanA5EhU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/nahum-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-nahum-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-HAB-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='OPMaRqGJPUU'
+                           data-videoTitle='Habakkuk'
+                           data-videoSummary='Habakkuk struggles to understand God&#039;s goodness in the midst of such evil and injustice in the world. God announces that he will bring down Babylon and any nations that act like Babylon and bring his kingdom and the messiah in the future. And so Habakkuk becomes an examples of God&#039;s righteous people living by faith in his promises to rescue his world.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/habakkuk-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-habakkuk-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Habakkuk","url":"https:\/\/thebibleproject.com\/product\/read-scripture-habakkuk","category":"Read Scripture Old Testament","summary":"Habakkuk struggles to understand God&#039;s goodness in the midst of such evil and injustice in the world. God announces that he will bring down Babylon and any nations that act like Babylon and bring his kingdom and the messiah in the future. And so Habakkuk becomes an examples of God&#039;s righteous people living by faith in his promises to rescue his world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HAB-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-habakkuk-video","youtube_id":"OPMaRqGJPUU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/habakkuk-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-habakkuk-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Habakkuk</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-habakkuk-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Habakkuk","url":"https:\/\/thebibleproject.com\/product\/read-scripture-habakkuk","category":"Read Scripture Old Testament","summary":"Habakkuk struggles to understand God&#039;s goodness in the midst of such evil and injustice in the world. God announces that he will bring down Babylon and any nations that act like Babylon and bring his kingdom and the messiah in the future. And so Habakkuk becomes an examples of God&#039;s righteous people living by faith in his promises to rescue his world.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HAB-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-habakkuk-video","youtube_id":"OPMaRqGJPUU","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/habakkuk-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-habakkuk-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-ZEPH-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='oFZknKPNvz8'
+                           data-videoTitle='Zephaniah'
+                           data-videoSummary='Zephaniah announces God&#039;s coming judgment on Israel&#039;s injustice and covenant unfaithfulness. It will devastate Jerusalem and end in exile. But God&#039;s love and mercy will endure, and so Zephaniah sees this purifying judgment as the true hope of the world, as God creates a world where all people can flourish in safety and peace.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/zephaniah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-zephaniah-2","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Zephaniah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-zephaniah","category":"Read Scripture Old Testament","summary":"Zephaniah announces God&#039;s coming judgment on Israel&#039;s injustice and covenant unfaithfulness. It will devastate Jerusalem and end in exile. But God&#039;s love and mercy will endure, and so Zephaniah sees this purifying judgment as the true hope of the world, as God creates a world where all people can flourish in safety and peace.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ZEPH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-zephaniah-2","youtube_id":"oFZknKPNvz8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/zephaniah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-zephaniah-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Zephaniah</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-zephaniah-2" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Zephaniah","url":"https:\/\/thebibleproject.com\/product\/read-scripture-zephaniah","category":"Read Scripture Old Testament","summary":"Zephaniah announces God&#039;s coming judgment on Israel&#039;s injustice and covenant unfaithfulness. It will devastate Jerusalem and end in exile. But God&#039;s love and mercy will endure, and so Zephaniah sees this purifying judgment as the true hope of the world, as God creates a world where all people can flourish in safety and peace.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ZEPH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-zephaniah-2","youtube_id":"oFZknKPNvz8","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/zephaniah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-zephaniah-2","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-HAGGAI-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='juPvv_xcX-U'
+                           data-videoTitle='Haggai'
+                           data-videoSummary='Haggai challenges Israel after the exile to remain faithful to their God and rebuild the temple. If they disobey, they risk losing their role in the fulfillment of God&#039;s promises to bring the messianic kingdom.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/haggai-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-haggai-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Haggai","url":"https:\/\/thebibleproject.com\/product\/haggai","category":"Read Scripture Old Testament","summary":"Haggai challenges Israel after the exile to remain faithful to their God and rebuild the temple. If they disobey, they risk losing their role in the fulfillment of God&#039;s promises to bring the messianic kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HAGGAI-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-haggai-video","youtube_id":"juPvv_xcX-U","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/haggai-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-haggai-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Haggai</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-haggai-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Haggai","url":"https:\/\/thebibleproject.com\/product\/haggai","category":"Read Scripture Old Testament","summary":"Haggai challenges Israel after the exile to remain faithful to their God and rebuild the temple. If they disobey, they risk losing their role in the fulfillment of God&#039;s promises to bring the messianic kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-HAGGAI-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-haggai-video","youtube_id":"juPvv_xcX-U","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/haggai-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-haggai-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-ZECH-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='_106IfO6Kc0'
+                           data-videoTitle='Zechariah'
+                           data-videoSummary='Zechariah&#039;s visions foster hope in the future promise of the messianic kingdom, and challenge Israel after the exile to remain faithful to their God.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/zechariah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-zechariah-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Zechariah","url":"https:\/\/thebibleproject.com\/product\/zechariah","category":"Read Scripture Old Testament","summary":"Zechariah&#039;s visions foster hope in the future promise of the messianic kingdom, and challenge Israel after the exile to remain faithful to their God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ZECH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-zechariah-video","youtube_id":"_106IfO6Kc0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/zechariah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-zechariah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Zechariah</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-zechariah-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Zechariah","url":"https:\/\/thebibleproject.com\/product\/zechariah","category":"Read Scripture Old Testament","summary":"Zechariah&#039;s visions foster hope in the future promise of the messianic kingdom, and challenge Israel after the exile to remain faithful to their God.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-ZECH-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-zechariah-video","youtube_id":"_106IfO6Kc0","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/zechariah-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-zechariah-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-MAL-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='HPGShWZ4Jvk'
+                           data-videoTitle='Malachi'
+                           data-videoSummary='Malachi exposes the selfishness and heard hearts of Israel after the exile, and announces that the coming day of the Lord will purify Israel and prepare them for God&#039;s future kingdom.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/malachi-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-malachi-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Malachi","url":"https:\/\/thebibleproject.com\/product\/malachi","category":"Read Scripture Old Testament","summary":"Malachi exposes the selfishness and heard hearts of Israel after the exile, and announces that the coming day of the Lord will purify Israel and prepare them for God&#039;s future kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MAL-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-malachi-video","youtube_id":"HPGShWZ4Jvk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/malachi-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-malachi-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Malachi</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-malachi-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Malachi","url":"https:\/\/thebibleproject.com\/product\/malachi","category":"Read Scripture Old Testament","summary":"Malachi exposes the selfishness and heard hearts of Israel after the exile, and announces that the coming day of the Lord will purify Israel and prepare them for God&#039;s future kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-MAL-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-malachi-video","youtube_id":"HPGShWZ4Jvk","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/malachi-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-malachi-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
+
+              
+                <div class="owl-carousel__video ">
+
+                                          <div class="owl-carousel__dark-overlay">
+                        <span class="dark-overlay__shadow"></span>
+                      </div>
+                    
+                    <section class="owl-carousel__hit-state ">
+                      <img class="owl-carousel__videoImg" width="253" src="https://s3-us-west-2.amazonaws.com/tbp-wp/wp-content/uploads/2016/05/TBP-Web-RSThumbnail-CHRON-1.jpg">
+                      <div class="owl-carousel__show-content"
+                           data-videoCode='HR7xaHv3Ias'
+                           data-videoTitle='Chronicles'
+                           data-videoSummary='Chronicles is a majestic summary of the entire Old Testament. It was written to show how Israel&#0#039;s story from the past points to the future hope of the messianic kingdom.'
+                           data-videoLinks='[{"posters":{"url":"https:\/\/thebibleproject.com\/product\/chronicles-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-chronicles-video","tagSlug":"videos","tagName":"Videos"}}]'
+                           data-videoShare='[{"title":"Chronicles","url":"https:\/\/thebibleproject.com\/product\/chronicles","category":"Read Scripture Old Testament","summary":"Chronicles is a majestic summary of the entire Old Testament. It was written to show how Israel&#039;s story from the past points to the future hope of the messianic kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-CHRON-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-chronicles-video","youtube_id":"HR7xaHv3Ias","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/chronicles-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-chronicles-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+
+                      </div>
+                      <p class="owl-carousel__video-title">Read Scripture<br/>Old Testament:<br/>Chronicles</p>
+                      <span class="owl-carousel__play icon-TBP-Play-button"></span>
+                    </section>
+
+                    <section class="carousel__popout">
+                        <a href="https://thebibleproject.com/resources/read-scripture-chronicles-video" class="carousel__popoutBtn download"><span class="carousel__popouticon icon-TBP-Download"></span> <span class="carousel__popouttext">Download</span></a>
+                        <article class="carousel__popoutBtn share share-now" data-share='[{"title":"Chronicles","url":"https:\/\/thebibleproject.com\/product\/chronicles","category":"Read Scripture Old Testament","summary":"Chronicles is a majestic summary of the entire Old Testament. It was written to show how Israel&#039;s story from the past points to the future hope of the messianic kingdom.","thumbnail":"https:\/\/s3-us-west-2.amazonaws.com\/tbp-wp\/wp-content\/uploads\/2016\/05\/TBP-Web-RSThumbnail-CHRON-1.jpg","video_link":"https:\/\/thebibleproject.com\/resources\/read-scripture-chronicles-video","youtube_id":"HR7xaHv3Ias","funded":"true","data_links":{"posters":{"url":"https:\/\/thebibleproject.com\/product\/chronicles-poster","tagSlug":"posters","tagName":"Poster"},"videos":{"url":"https:\/\/thebibleproject.com\/product\/read-scripture-chronicles-video","tagSlug":"videos","tagName":"Videos"}},"category_display_title":"Read Scripture<br\/>Old Testament"}]'>
+                          <span class="carousel__popouticon icon-TBP-Share"></span>
+                          <span class="carousel__popouttext" >Share</span>
+                        </article>
+                    </section>
+
+                </div> <!-- owl-carousel__video -->
